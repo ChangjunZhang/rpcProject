@@ -16,13 +16,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rpc-client" target="1.5" />
-      <module name="rpc-common" target="1.5" />
-      <module name="rpc-registry" target="1.5" />
-      <module name="rpc-sample-app" target="1.5" />
-      <module name="rpc-sample-client" target="1.5" />
-      <module name="rpc-sample-server" target="1.5" />
-      <module name="rpc-server" target="1.5" />
+      <module name="rpc-client" target="1.8" />
+      <module name="rpc-common" target="1.8" />
+      <module name="rpc-registry" target="1.8" />
+      <module name="rpc-sample-app" target="1.8" />
+      <module name="rpc-sample-client" target="1.8" />
+      <module name="rpc-sample-server" target="1.8" />
+      <module name="rpc-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
